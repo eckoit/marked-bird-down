@@ -3,6 +3,10 @@
 A full-featured markdown parser and compiler, written in javascript.
 Built for speed.
 
+## Note
+
+This is just a slightly relaxed parser, with some options to pass into the blocks.
+
 ## Benchmarks
 
 node v0.4.x
